@@ -10,9 +10,9 @@
 
             "tab_text": "rgba(235, 235, 235, 1)",
             "tab_background_text": "rgba(170, 170, 170, 1)",
-            "tab_line": "rgba(60, 61, 64, 1)",
-            "tab_loading": "rgba(60, 61, 64, 1)",
-            "tab_selected": "rgba(60, 61, 64, 1)",
+            "tab_line": "rgba(64, 65, 68, 1)",
+            "tab_loading": "rgba(64, 65, 68, 1)",
+            "tab_selected": "rgba(64, 65, 68, 1)",
 
             "toolbar": "rgba(42, 43, 46, 1)",
             "toolbar_top_separator": "rgba(42, 43, 46, 1)",
@@ -33,7 +33,7 @@
             "popup": "rgba(32, 33, 36, 1)",
             "popup_text": "rgba(200, 200, 200, 1)",
             "popup_border": "rgba(30, 31, 34, 1)",
-            "popup_highlight": "rgba(60, 61, 64, 1)",
+            "popup_highlight": "rgba(42, 43, 46, 1)",
             "popup_highlight_text": "rgba(235, 235, 235, 1)",
 
             "ntp_background": "rgba(42, 43, 46, 1)",
