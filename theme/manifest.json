@@ -5,24 +5,23 @@
     "name": "Matte Black",
     "theme": {
         "colors": {
-            "frame": "rgba(32, 33, 36, 1)",
-            "frame_inactive": "rgba(32, 33, 36, 1)",
+            "frame": "rgba(27, 28, 31, 1)",
+            "frame_inactive": "rgba(36, 37, 40, 1)",
 
             "tab_text": "rgba(255, 255, 255, 1)",
             "tab_background_text": "rgba(170, 170, 170, 1)",
             "tab_line": "rgb(53, 54, 58, 1)",
             "tab_loading": "rgb(53, 54, 58, 1)",
 
-            "toolbar": "rgba(53, 54, 58, 1)",
-            "toolbar_top_separator": "rgba(53, 54, 58, 1)",
+            "toolbar": "rgba(53, 54, 57, 1)",
+            "toolbar_top_separator": "rgba(53, 54, 57, 1)",
             "toolbar_bottom_separator": "rgba(40, 40, 40, 1)",
-            "toolbar_vertical_separator": "rgba(80, 80, 82, 1)",
             "toolbar_field": "rgba(32, 33, 36, 1)",
             "toolbar_field_text": "rgba(200, 200, 200, 1)",
             "toolbar_field_border": "rgba(32, 33, 36, 1)",
-            "toolbar_field_separator": "rgba(60, 60, 62, 1)",
+            "toolbar_field_separator": "rgba(41, 42, 45, 1)",
             "toolbar_field_focus": "rgba(32, 33, 36, 1)",
-            "toolbar_field_border_focus": "rgba(50, 88, 121, 1)",
+            "toolbar_field_border_focus": "rgba(28, 143, 164, 0.95)",
 
             "button_background_hover": "rgba(255, 255, 255, 0.12)",
             "button_background_active": "rgba(255, 255, 255, 0.15)",
