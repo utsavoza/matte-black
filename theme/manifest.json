@@ -30,7 +30,7 @@
             "icons": "rgba(235, 235, 235, 1)",
             "bookmark_text": "rgba(200, 200, 200, 1)",
 
-            "popup": "rgba(36, 37, 40, 1)",
+            "popup": "rgba(32, 33, 36, 1)",
             "popup_text": "rgba(200, 200, 200, 1)",
             "popup_border": "rgba(30, 31, 34, 1)",
             "popup_highlight": "rgba(60, 61, 64, 1)",
