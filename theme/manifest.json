@@ -10,8 +10,9 @@
 
             "tab_text": "rgba(255, 255, 255, 1)",
             "tab_background_text": "rgba(170, 170, 170, 1)",
-            "tab_line": "rgb(53, 54, 58, 1)",
-            "tab_loading": "rgb(53, 54, 58, 1)",
+            "tab_line": "rgba(53, 54, 58, 1)",
+            "tab_loading": "rgba(53, 54, 58, 1)",
+            "tab_selected": "rgba(68, 69, 72, 1)",
 
             "toolbar": "rgba(53, 54, 57, 1)",
             "toolbar_top_separator": "rgba(53, 54, 57, 1)",
