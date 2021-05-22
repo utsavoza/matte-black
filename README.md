@@ -15,7 +15,7 @@
 <h4 align="center">Matte Black</h4>
 
 <p align="center">
-  <img src="./screenshots/Firefox Matte Black.png" alt="Firefox (Matte Black)">
+  <img src="./screenshots/Firefox Proton Matte Black.png" alt="Firefox (Matte Black)">
 </p>
 
 <br>
@@ -23,7 +23,7 @@
 <h4 align="center">Default</h4>
 
 <p align="center">
-  <img src="./screenshots/Firefox Default.png" alt="Firefox (Default)">
+  <img src="./screenshots/Firefox Proton Default.png" alt="Firefox (Default)">
 </p>
 
 <br>
