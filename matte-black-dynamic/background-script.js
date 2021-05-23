@@ -35,7 +35,7 @@ const themes = {
       bookmark_text: 'rgba(200, 200, 200, 1)',
 
       // popup
-      popup: 'rgba(30, 31, 34, 1)',
+      popup: 'rgba(41, 42, 45, 1)',
       popup_text: 'rgba(200, 200, 200, 1)',
       popup_border: 'rgba(20, 21, 24, 0.50)',
       popup_highlight: 'rgba(50, 51, 54, 1)',
