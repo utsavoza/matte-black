@@ -20,7 +20,7 @@ const themes = {
       toolbar_bottom_separator: 'rgba(30, 31, 34, 1)',
       toolbar_vertical_separator: 'rgba(50, 51, 54, 1)',
       toolbar_field: 'rgba(30, 31, 34, 1)',
-      toolbar_field_text: 'rgba(235, 235, 235, 1)',
+      toolbar_field_text: 'rgba(200, 200, 200, 1)',
       toolbar_field_border: 'rgba(30, 31, 34, 1)',
       toolbar_field_separator: 'rgba(30, 31, 34, 1)',
       toolbar_field_focus: 'rgba(30, 31, 34, 1)',
@@ -31,7 +31,7 @@ const themes = {
       button_background_active: 'rgba(255, 255, 255, 0.15)',
 
       // icons
-      icons: 'rgba(235, 235, 235, 1)',
+      icons: 'rgba(200, 200, 200, 1)',
       bookmark_text: 'rgba(200, 200, 200, 1)',
 
       // popup
