@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "author": "Utsav Oza",
+  "version": "1.0.0",
+  "name": "Matte Black (Dynamic)",
+  "permissions": [
+    "theme"
+  ],
+  "background": {
+    "page": "background-page.html"
+  }
+}
