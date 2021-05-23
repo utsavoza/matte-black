@@ -20,7 +20,7 @@ const themes = {
       toolbar_bottom_separator: "rgba(30, 31, 34, 1)",
       toolbar_vertical_separator: "rgba(50, 51, 54, 1)",
       toolbar_field: "rgba(30, 31, 34, 1)",
-      toolbar_field_text: "rgba(200, 200, 200, 1)",
+      toolbar_field_text: "rgba(215, 216, 219, 1)",
       toolbar_field_border: "rgba(30, 31, 34, 1)",
       toolbar_field_separator: "rgba(30, 31, 34, 1)",
       toolbar_field_focus: "rgba(30, 31, 34, 1)",
@@ -31,12 +31,12 @@ const themes = {
       button_background_active: "rgba(255, 255, 255, 0.15)",
 
       // icons
-      icons: "rgba(200, 200, 200, 1)",
-      bookmark_text: "rgba(200, 200, 200, 1)",
+      icons: "rgba(215, 216, 219, 1)",
+      bookmark_text: "rgba(215, 216, 219, 1)",
 
       // popup
       popup: "rgba(41, 42, 45, 1)",
-      popup_text: "rgba(200, 200, 200, 1)",
+      popup_text: "rgba(215, 216, 219, 1)",
       popup_border: "rgba(20, 21, 24, 0.50)",
       popup_highlight: "rgba(50, 51, 54, 1)",
       popup_highlight_text: "rgba(235, 235, 235, 1)",
@@ -47,10 +47,10 @@ const themes = {
 
       // sidebar
       sidebar: "rgba(53, 54, 58, 1)",
-      sidebar_text: "rgba(200, 200, 200, 1)",
+      sidebar_text: "rgba(215, 216, 219, 1)",
       sidebar_border: "rgba(41, 42, 45, 1)",
       sidebar_highlight: "rgba(41, 42, 45, 1)",
-      sidebar_highlight_text: "rgba(200, 200, 200, 1)"
+      sidebar_highlight_text: "rgba(215, 216, 219, 1)"
     }
   },
   "light": {
