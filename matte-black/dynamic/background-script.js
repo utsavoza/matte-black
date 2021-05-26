@@ -15,12 +15,12 @@ const themes = {
       tab_selected: "rgba(64, 65, 68, 1)",
 
       // toolbar
-      toolbar: "rgba(50, 51, 54, 1)",
-      toolbar_top_separator: "rgba(50, 51, 54, 1)",
+      toolbar: "rgba(48, 49, 52, 1)",
+      toolbar_top_separator: "rgba(48, 49, 52, 1)",
       toolbar_bottom_separator: "rgba(30, 31, 34, 1)",
-      toolbar_vertical_separator: "rgba(50, 51, 54, 1)",
+      toolbar_vertical_separator: "rgba(48, 49, 52, 1)",
       toolbar_field: "rgba(30, 31, 34, 1)",
-      toolbar_field_text: "rgba(215, 216, 219, 1)",
+      toolbar_field_text: "rgba(235, 236, 239, 1)",
       toolbar_field_border: "rgba(30, 31, 34, 1)",
       toolbar_field_separator: "rgba(30, 31, 34, 1)",
       toolbar_field_focus: "rgba(30, 31, 34, 1)",
@@ -31,26 +31,26 @@ const themes = {
       button_background_active: "rgba(255, 255, 255, 0.15)",
 
       // icons
-      icons: "rgba(215, 216, 219, 1)",
-      bookmark_text: "rgba(215, 216, 219, 1)",
+      icons: "rgba(235, 236, 239, 1)",
+      bookmark_text: "rgba(235, 236, 239, 1)",
 
       // popup
       popup: "rgba(41, 42, 45, 1)",
-      popup_text: "rgba(215, 216, 219, 1)",
+      popup_text: "rgba(235, 236, 239, 1)",
       popup_border: "rgba(20, 21, 24, 0.50)",
-      popup_highlight: "rgba(50, 51, 54, 1)",
+      popup_highlight: "rgba(48, 49, 52, 1)",
       popup_highlight_text: "rgba(235, 235, 235, 1)",
 
       // new tab page
-      ntp_background: "rgba(50, 51, 54, 1)",
+      ntp_background: "rgba(48, 49, 52, 1)",
       ntp_text: "rgba(240, 240, 240, 1)",
 
       // sidebar
       sidebar: "rgba(53, 54, 58, 1)",
-      sidebar_text: "rgba(215, 216, 219, 1)",
+      sidebar_text: "rgba(235, 236, 239, 1)",
       sidebar_border: "rgba(41, 42, 45, 1)",
       sidebar_highlight: "rgba(41, 42, 45, 1)",
-      sidebar_highlight_text: "rgba(215, 216, 219, 1)"
+      sidebar_highlight_text: "rgba(235, 236, 239, 1)"
     }
   },
   "light": {
