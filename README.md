@@ -1,14 +1,16 @@
 <div align="center">
   <h1><code>Matte Black</code></h1>
   <h4>Firefox themes with matte defaults</h4>
-  <img style="margin: 6px" width="24" height="24" src="matte-black/static/icon.svg">
-  <img style="margin: 6px" width="24" height="24" src="matte-black/dynamic/icon.svg">
   <br>
 
   <p>
     <a href="https://addons.mozilla.org/firefox/addon/matte-black-default/"><img src="https://img.shields.io/amo/users/matte-black-default.svg?label=Firefox&color=orange&logo=mozilla-firefox" /></a>
     <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
   </p>
+
+  <img width="30" height="30" src="matte-black/static/icon.svg">
+  <img width="30" height="30" src="matte-black/dynamic/icon.svg">
+
 </div>
 
 <br>
