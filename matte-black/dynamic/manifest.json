@@ -3,8 +3,13 @@
   "author": "Utsav Oza",
   "version": "0.1.2",
   "name": "Matte Black (Dynamic)",
+  "description": "A dynamic theme that follows the operating system setting with matte defaults.",
   "icons": {
-    "32": "icon.svg"
+    "16": "icon.svg",
+    "32": "icon.svg",
+    "48": "icon.svg",
+    "64": "icon.svg",
+    "96": "icon.svg"
   },
   "permissions": [
     "theme"

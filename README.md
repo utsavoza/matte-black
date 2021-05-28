@@ -1,6 +1,6 @@
 <div align="center">
   <h1><code>Matte Black</code></h1>
-  <h4>Firefox theme with matte defaults</h4>
+  <h4>Firefox themes with matte defaults</h4>
 
   <br>
 
