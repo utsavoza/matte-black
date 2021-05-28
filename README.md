@@ -1,7 +1,8 @@
 <div align="center">
   <h1><code>Matte Black</code></h1>
   <h4>Firefox themes with matte defaults</h4>
-
+  <img style="margin: 6px" width="24" height="24" src="matte-black/static/icon.svg">
+  <img style="margin: 6px" width="24" height="24" src="matte-black/dynamic/icon.svg">
   <br>
 
   <p>
