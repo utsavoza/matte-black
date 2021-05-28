@@ -1,7 +1,6 @@
 <div align="center">
   <h1><code>Matte Black</code></h1>
   <h4>Firefox themes with matte defaults</h4>
-  <br>
 
   <p>
     <a href="https://addons.mozilla.org/firefox/addon/matte-black-default/"><img src="https://img.shields.io/amo/users/matte-black-default.svg?label=Firefox&color=orange&logo=mozilla-firefox" /></a>
