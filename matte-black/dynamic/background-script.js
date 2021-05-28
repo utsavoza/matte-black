@@ -4,7 +4,7 @@ const themes = {
   "dark": {
     colors: {
       // frame
-      frame: "rgba(20, 21, 24, 1)",
+      frame: "rgba(24, 25, 28, 1)",
       frame_inactive: "rgba(30, 31, 34, 1)",
 
       // tabs
@@ -22,7 +22,7 @@ const themes = {
       toolbar_field: "rgba(30, 31, 34, 1)",
       toolbar_field_text: "rgba(235, 236, 239, 1)",
       toolbar_field_border: "rgba(30, 31, 34, 1)",
-      toolbar_field_focus: "rgba(30, 31, 34, 1)",
+      toolbar_field_focus: "rgba(34, 35, 38, 1)",
       toolbar_field_border_focus: "rgba(28, 143, 164, 0.95)",
 
       // buttons

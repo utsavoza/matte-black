@@ -1,8 +1,11 @@
 {
   "manifest_version": 2,
   "author": "Utsav Oza",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "name": "Matte Black (Dynamic)",
+  "icons": {
+    "32": "icon.svg"
+  },
   "permissions": [
     "theme"
   ],

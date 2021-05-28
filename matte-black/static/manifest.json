@@ -3,9 +3,12 @@
   "author": "Utsav Oza",
   "version": "3.0.0",
   "name": "Matte Black",
+  "icons": {
+    "32": "icon.svg"
+  },
   "theme": {
     "colors": {
-      "frame": "rgba(20, 21, 24, 1)",
+      "frame": "rgba(24, 25, 28, 1)",
       "frame_inactive": "rgba(30, 31, 34, 1)",
 
       "tab_text": "rgba(235, 235, 235, 1)",
@@ -21,7 +24,7 @@
       "toolbar_field": "rgba(30, 31, 34, 1)",
       "toolbar_field_text": "rgba(235, 236, 239, 1)",
       "toolbar_field_border": "rgba(30, 31, 34, 1)",
-      "toolbar_field_focus": "rgba(30, 31, 34, 1)",
+      "toolbar_field_focus": "rgba(34, 35, 38, 1)",
       "toolbar_field_border_focus": "rgba(28, 143, 164, 0.95)",
 
       "button_background_hover": "rgba(255, 255, 255, 0.12)",
