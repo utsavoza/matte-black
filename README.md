@@ -4,10 +4,10 @@
 
   <p>
     <a href="https://addons.mozilla.org/firefox/addon/matte-black-default/">
-      <img src="https://img.shields.io/amo/users/matte-black-default.svg?label=Matte Black&color=black&logo=mozilla-firefox" />
+      <img src="https://img.shields.io/amo/users/matte-black-default.svg?label=Matte%20Black&color=black&logo=mozilla-firefox" />
     </a>
     <a href="https://addons.mozilla.org/firefox/addon/matte-black-default/">
-      <img src="https://img.shields.io/amo/users/matte-black-dynamic.svg?label=Matte Black Dynamic&color=white&logo=mozilla-firefox" />
+      <img src="https://img.shields.io/amo/users/matte-black-dynamic.svg?label=Matte%20Black%20Dynamic&color=white&logo=mozilla-firefox" />
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
