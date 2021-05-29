@@ -15,10 +15,10 @@
   </p>
 
   <a href="https://addons.mozilla.org/en-US/firefox/addon/matte-black-default/">
-    <img width="30" height="30" src="matte-black/static/icon.svg">
+    <img width="30" height="30" src="theme/static/icon.svg">
   </a>
   <a href="https://addons.mozilla.org/en-US/firefox/addon/matte-black-dynamic/">
-    <img width="30" height="30" src="matte-black/dynamic/icon.svg">
+    <img width="30" height="30" src="theme/dynamic/icon.svg">
   </a>
 
 </div>
