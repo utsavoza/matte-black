@@ -3,12 +3,23 @@
   <h4>Firefox themes with matte defaults</h4>
 
   <p>
-    <a href="https://addons.mozilla.org/firefox/addon/matte-black-default/"><img src="https://img.shields.io/amo/users/matte-black-default.svg?label=Firefox&color=orange&logo=mozilla-firefox" /></a>
-    <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
+    <a href="https://addons.mozilla.org/firefox/addon/matte-black-default/">
+      <img src="https://img.shields.io/amo/users/matte-black-default.svg?label=Matte Black&color=black&logo=mozilla-firefox" />
+    </a>
+    <a href="https://addons.mozilla.org/firefox/addon/matte-black-default/">
+      <img src="https://img.shields.io/amo/users/matte-black-dynamic.svg?label=Matte Black Dynamic&color=white&logo=mozilla-firefox" />
+    </a>
+    <a href="./LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+    </a>
   </p>
 
-  <img width="30" height="30" src="matte-black/static/icon.svg">
-  <img width="30" height="30" src="matte-black/dynamic/icon.svg">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/matte-black-default/">
+    <img width="30" height="30" src="matte-black/static/icon.svg">
+  </a>
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/matte-black-dynamic/">
+    <img width="30" height="30" src="matte-black/dynamic/icon.svg">
+  </a>
 
 </div>
 
