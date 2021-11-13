@@ -61,7 +61,7 @@ const themes = {
       // tabs
       tab_text: "rgba(73, 74, 77, 1)",
       tab_background_text: "rgba(73, 74, 77, 1)",
-      tab_line: "rgba(191, 192, 195, 1)",
+      tab_line: "rgba(140, 140, 151, 1)",
       tab_loading: "rgba(73, 74, 77, 1)",
       tab_selected: "rgba(255, 255, 255, 1)",
 
